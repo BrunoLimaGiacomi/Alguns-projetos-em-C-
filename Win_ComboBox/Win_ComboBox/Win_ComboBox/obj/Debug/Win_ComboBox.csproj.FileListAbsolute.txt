@@ -1,0 +1,33 @@
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\bin\Debug\Win_ComboBox.exe.config
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\bin\Debug\Win_ComboBox.exe
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\bin\Debug\Win_ComboBox.pdb
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.AssemblyReference.cache
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.SuggestedBindingRedirects.cache
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.FrmComboBox.resources
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.Properties.Resources.resources
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.GenerateResource.cache
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.CoreCompileInputs.cache
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.exe
+E:\ETEC - 2023\DADOS\2EDSS\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.pdb
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\bin\Debug\Win_ComboBox.exe.config
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\bin\Debug\Win_ComboBox.exe
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\bin\Debug\Win_ComboBox.pdb
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.AssemblyReference.cache
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.SuggestedBindingRedirects.cache
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.FrmComboBox.resources
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.Properties.Resources.resources
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.GenerateResource.cache
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.CoreCompileInputs.cache
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.exe
+D:\2EDSS\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.pdb
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\bin\Debug\Win_ComboBox.exe.config
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\bin\Debug\Win_ComboBox.exe
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\bin\Debug\Win_ComboBox.pdb
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.AssemblyReference.cache
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.SuggestedBindingRedirects.cache
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.FrmComboBox.resources
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.Properties.Resources.resources
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.GenerateResource.cache
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.csproj.CoreCompileInputs.cache
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.exe
+D:\2EDSS\Sistema\Win_ComboBox\Win_ComboBox\Win_ComboBox\obj\Debug\Win_ComboBox.pdb

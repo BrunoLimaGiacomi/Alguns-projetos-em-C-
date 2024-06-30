@@ -1,0 +1,12 @@
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\bin\Debug\SplashCSharp.exe.config
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\bin\Debug\SplashCSharp.exe
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\bin\Debug\SplashCSharp.pdb
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\obj\Debug\SplashCSharp.csproj.AssemblyReference.cache
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\obj\Debug\SplashCSharp.csproj.SuggestedBindingRedirects.cache
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\obj\Debug\SplashCSharp.FrmMenu.resources
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\obj\Debug\SplashCSharp.FrmSplash.resources
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\obj\Debug\SplashCSharp.Properties.Resources.resources
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\obj\Debug\SplashCSharp.csproj.GenerateResource.cache
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\obj\Debug\SplashCSharp.csproj.CoreCompileInputs.cache
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\obj\Debug\SplashCSharp.exe
+D:\2EDSS\BANCO DE DADOS\SplashCSharp\SplashCSharp\obj\Debug\SplashCSharp.pdb
